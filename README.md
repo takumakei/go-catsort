@@ -1,6 +1,7 @@
 Category Sort
 ======================================================================
 
+[![GoDoc](https://pkg.go.dev/badge/github.com/takumakei/go-catsort)](https://godoc.org/github.com/takumakei/go-catsort)
 
 Package catsort implements a sorting algorithm that divides a string into
 chunks of runes of the same category and compares them.
